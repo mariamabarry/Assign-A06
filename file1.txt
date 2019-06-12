@@ -1,1 +1,1 @@
-I am making changes to file1.txt! Hurray! :)
+I deleted the previous text in file1.txt and have added this text instead.
